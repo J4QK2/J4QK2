@@ -1,5 +1,5 @@
 ## Hello, my name is Turar Kulik
-currently I'm learning Data Science and Machine Learning.
+Currently I'm learning Data Science and Machine Learning.
 
 I'm looking to collaborate on some AI included projects to gain experience in a working environment.
 
