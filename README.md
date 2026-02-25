@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hello, my name is Turar Kulik
+currently I'm learning Data Science and Machine Learning.
 
+I'm looking to collaborate on some AI included projects to gain experience in a working environment.
+
+I'm living in Kazakhstan and studying on a Master's Degree in Data Science in Italy. I've worked as a Data Analyst, and as a Project Manager using CRM systems and SQL.
+
+You can reach me through my LinkedIn.
 <!--
 **J4QK2/J4QK2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
